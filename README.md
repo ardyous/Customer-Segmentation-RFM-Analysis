@@ -83,6 +83,7 @@ Hasil akhir digunakan untuk mendukung keputusan pemasaran, strategi retensi, dan
 - Segmen Loyal dan Lost memiliki performa rendah → butuh strategi upselling.
 
 🎯 Rekomendasi Strategis
+
 🔹 1. Strategi untuk Low Order – High Value Customer
 - Bundling produk premium
 - Diskon eksklusif
