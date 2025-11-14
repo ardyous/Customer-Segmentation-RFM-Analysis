@@ -53,6 +53,7 @@ Hasil akhir digunakan untuk mendukung keputusan pemasaran, strategi retensi, dan
 - Penyusunan Rekomendasi Bisnis
 
 📥 Insight Bisnis
+
 1️⃣ Produk Penyumbang Pendapatan Tertinggi
 - Classic Cars mendominasi pendapatan pada hampir seluruh segmen, terutama Priority, At Risk, dan Potential Loyalists.
 - Perusahaan harus menjaga kualitas & stok produk ini.
